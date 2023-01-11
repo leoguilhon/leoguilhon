@@ -9,5 +9,4 @@
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/792647790114766889/1062754279082958898/jazz-club.jpg?width=900&height=640">
 </div>
