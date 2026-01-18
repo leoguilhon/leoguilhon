@@ -1,4 +1,4 @@
-### Olá! Me chamo Leonardo Ciarlini Guilhon. Sou formado em Ciências Econômicas pelo IBMEC-RJ e estou no último período de Análise e Desenvolvimento de Sistemas (ADS) no INFNET. Atuei por cerca de 1 ano na PCA com foco em automação de processos (RPA) e integrações de APIs, trabalhando principalmente com Python e Java (Spring Boot) no desenvolvimento de soluções para otimizar rotinas e reduzir atividades manuais. Tenho interesse em desenvolvimento backend e automações, sempre buscando aprender na prática e evoluir tecnicamente por meio de projetos reais.
+### Olá! Me chamo Leonardo Ciarlini Guilhon. Sou formado em Ciências Econômicas pelo IBMEC-RJ e estou no último período de Análise e Desenvolvimento de Sistemas (ADS) no INFNET. Atuei por cerca de 1 ano no Grupo PCA com foco em automação de processos (RPA) e integrações de APIs, trabalhando principalmente com Python e Java (Spring Boot) no desenvolvimento de soluções para otimizar rotinas e reduzir atividades manuais. Tenho interesse em desenvolvimento backend e automações, sempre buscando aprender na prática e evoluir tecnicamente por meio de projetos reais.
 
 ##
 
