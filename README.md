@@ -3,7 +3,7 @@ Backend • APIs • Automação • Cloud
 
 💻 Desenvolvedor focado em **Backend, Automação e APIs**  
 🎓 Formado em Ciências Econômicas — IBMEC-RJ  
-📚 Graduando em Análise e Desenvolvimento de Sistemas — INFNET (finalização em 2026)  
+📚 Graduando em Análise e Desenvolvimento de Sistemas — INFNET
 
 ---
 
