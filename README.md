@@ -38,7 +38,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 
 Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e pratico xadrez no tempo livre.
 
----
+<br>
 
 ## 🌐 Conecte-se comigo
 
