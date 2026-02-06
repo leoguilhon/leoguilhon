@@ -63,6 +63,16 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 
 <br/>
 
+### 🧪 Testes & Qualidade
+<div align="left">
+  <img src="https://cdn.simpleicons.org/apachejmeter" height="38" alt="JMeter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="38" alt="Selenium"/>
+  <img src="https://cdn.simpleicons.org/cypress" height="38" alt="Cypress"/>
+  <img src="https://cdn.simpleicons.org/appium" height="38" alt="Appium"/>
+</div>
+
+<br/>
+
 ### 📡 Mensageria & Infra
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="38"/>
