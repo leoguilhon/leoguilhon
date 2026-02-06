@@ -24,59 +24,37 @@ No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos rel
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⚙️ Backend
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="38"/>
-</div>
-
-<br/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="18" /> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="18" /> Spring Boot
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="18" /> Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="18" /> FastAPI
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="18" /> Node.js
 
 ### 🎨 Frontend
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38"/>
-</div>
-
-<br/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="18" /> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="18" /> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="18" /> TypeScript
 
 ### 🗄️ Bancos de Dados
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="38"/>
-</div>
-
-<br/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="18" /> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="18" /> PostgreSQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="18" /> MongoDB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="18" /> SQLite
 
 ### ☁️ DevOps & Cloud
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="38"/>
-  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=38&color=ff9900" height="38" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38"/>
-</div>
-
-<br/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="18" /> Docker
+- <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=18&color=ff9900" height="18" /> AWS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="18" /> Linux
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="18" /> Git
 
 ### 🧪 Testes & Qualidade
-<div align="left">
-  <img src="https://cdn.simpleicons.org/apachejmeter" height="38" alt="JMeter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="38" alt="Selenium"/>
-  <img src="https://cdn.simpleicons.org/cypress" height="38" alt="Cypress"/>
-  <img src="https://cdn.simpleicons.org/appium" height="38" alt="Appium"/>
-</div>
-
-<br/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="18" /> Selenium
+- <img src="https://cdn.simpleicons.org/cypress" height="18" /> Cypress
+- <img src="https://cdn.simpleicons.org/appium" height="18" /> Appium
+- <img src="https://cdn.simpleicons.org/apachejmeter" height="18" /> JMeter
 
 ### 📡 Mensageria & Infra
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="38"/>
-</div>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="18" /> RabbitMQ
 
 ---
 
