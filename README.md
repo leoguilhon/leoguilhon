@@ -38,22 +38,23 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 
 Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e pratico xadrez no tempo livre.
 
-<hr style="border:none;height:1px;background:#222;opacity:.4"/>
+---
 
 ## 🌐 Conecte-se comigo
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCKd2R3W6jPi6XIBTd99dRFQ" target="_blank">
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCKd2R3W6jPi6XIBTd99dRFQ" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://instagram.com/leoguilhon" target="_blank">
+  <a href="https://instagram.com/leoguilhon" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:leoguilhon@gmail.com">
+  <a href="mailto:leoguilhon@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-guilhon-23a100199" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-guilhon-23a100199" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  </a>
 </div>
+
 
