@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou o Leonardo Ciarlini Guilhon  
+# Leonardo Ciarlini Guilhon  
+Backend • APIs • Automação • Cloud
 
 💻 Desenvolvedor focado em **Backend, Automação e APIs**  
 🎓 Formado em Ciências Econômicas — IBMEC-RJ  
