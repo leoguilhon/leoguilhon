@@ -42,11 +42,9 @@ Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e
 
 ## 🌐 Conecte-se comigo
 
-<div align="left">
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKd2R3W6jPi6XIBTd99dRFQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leoguilhon)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoguilhon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-guilhon-23a100199)
-</div>
 
 
