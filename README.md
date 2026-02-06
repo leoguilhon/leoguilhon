@@ -50,3 +50,10 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+---
+
+## Além do código
+
+Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e pratico xadrez no tempo livre.
+
