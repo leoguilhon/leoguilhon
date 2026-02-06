@@ -7,7 +7,7 @@ Backend • APIs • Automação • Cloud
 
 ---
 
-Sou desenvolvedor com experiência prática em **RPA, integrações de sistemas e construção de APIs**, tendo atuado por cerca de 1 ano no **Grupo PCA**, onde trabalhei principalmente com **Python** e **Java (Spring Boot)** no desenvolvimento de soluções para automatizar rotinas corporativas e reduzir processos manuais.
+Sou desenvolvedor com experiência prática em **RPA**, **integrações de sistemas** e **construção de APIs**, tendo trabalhado principalmente com **Python** e **Java (Spring Boot)** no desenvolvimento de soluções para automatizar rotinas corporativas e reduzir processos manuais em empresas como **Americanas**, **White Martins** e **Weatherford**.
 
 Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e automações inteligentes, sempre buscando evoluir por meio de **projetos reais**, estudos contínuos e aplicações voltadas para produção.
 
