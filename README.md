@@ -80,7 +80,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 
 ---
 
-## Além do código
+## 🧩 Além do código
 
 Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e pratico xadrez no tempo livre.
 
