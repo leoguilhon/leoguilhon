@@ -32,7 +32,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="38"/>
 </div>
 
----
+<br/>
 
 ### 🎨 Frontend
 <div align="left">
@@ -41,7 +41,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38"/>
 </div>
 
----
+<br/>
 
 ### 🗄️ Bancos de Dados
 <div align="left">
@@ -51,7 +51,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="38"/>
 </div>
 
----
+<br/>
 
 ### ☁️ DevOps & Cloud
 <div align="left">
@@ -61,7 +61,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38"/>
 </div>
 
----
+<br/>
 
 ### 📡 Mensageria & Infra
 <div align="left">
