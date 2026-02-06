@@ -56,7 +56,7 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 ### ☁️ DevOps & Cloud
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38"/>
+  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=38&color=ff9900" height="38" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38"/>
 </div>
