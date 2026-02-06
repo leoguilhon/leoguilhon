@@ -9,9 +9,9 @@ Backend • APIs • Automação • Cloud
 
 Sou desenvolvedor com experiência prática em **RPA**, **integrações de sistemas** e **construção de APIs**, tendo trabalhado principalmente com **Python** e **Java (Spring Boot)** no desenvolvimento de soluções para automatizar rotinas corporativas e reduzir processos manuais em empresas como **Americanas**, **White Martins** e **Weatherford**.
 
-Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e automações inteligentes, sempre buscando evoluir por meio de **projetos reais**, estudos contínuos e aplicações voltadas para produção.
+No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos relacionais e NoSQL**, além de **testes** e **documentação** para manter o produto sustentável em ambiente real.
 
-🚀 Atualmente construindo projetos completos com:
+**O que você encontra nos meus projetos:**
 - APIs REST escaláveis  
 - Autenticação e segurança  
 - Docker e ambientes cloud  
