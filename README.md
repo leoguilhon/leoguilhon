@@ -45,16 +45,16 @@ Fora do desenvolvimento, sou saxofonista e apaixonado por jazz, gosto de gatos e
 <div align="left">
   <p align="left">
     <a href="https://www.youtube.com/channel/UCKd2R3W6jPi6XIBTd99dRFQ" target="_blank" rel="noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+      <img style="display:inline-block" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>&nbsp;
     <a href="https://instagram.com/leoguilhon" target="_blank" rel="noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img style="display:inline-block" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>&nbsp;
     <a href="mailto:leoguilhon@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img style="display:inline-block" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/leonardo-guilhon-23a100199" target="_blank" rel="noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img style="display:inline-block" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 </div>
