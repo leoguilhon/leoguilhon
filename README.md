@@ -23,14 +23,16 @@ Tenho forte interesse em **engenharia backend**, arquitetura de sistemas e autom
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Leo-CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-</div>
+Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="38"/>
+Frontend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38"/>
+Bancos de Dados
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="38"/>
+DevOps & Cloud
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38"/>
+Mensageria & Infra
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="38"/>
 
 ---
 
