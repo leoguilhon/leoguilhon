@@ -7,7 +7,7 @@ Backend • APIs • Automação • Cloud
 
 ---
 
-Sou desenvolvedor com experiência prática em **RPA**, **integrações de sistemas** e **construção de APIs**, tendo trabalhado principalmente com **Python** e **Java (Spring Boot)** no desenvolvimento de soluções para automatizar rotinas corporativas e reduzir processos manuais em empresas como **Americanas**, **White Martins** e **Weatherford**.
+Sou desenvolvedor com experiência prática em **RPA**, **integrações de sistemas** e **construção de APIs**, tendo trabalhado principalmente com **Python** e **Java** no desenvolvimento de soluções para automatizar rotinas corporativas e reduzir processos manuais em empresas como **Americanas**, **White Martins** e **Weatherford**.
 
 No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos relacionais e NoSQL**, além de **testes** e **documentação** para manter o produto sustentável em ambiente real.
 
