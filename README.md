@@ -44,6 +44,7 @@ No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos rel
 ### ☁️ DevOps & Cloud
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="18" /> Docker
 - <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=18&color=ff9900" height="18" /> AWS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="18" /> Azure
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="18" /> Linux
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="18" /> Git
 
