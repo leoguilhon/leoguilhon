@@ -24,10 +24,10 @@ No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos rel
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⚙️ Backend
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="18" /> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="18" /> Spring Boot
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="18" /> Python
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="18" /> FastAPI
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="18" /> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="18" /> Spring Boot
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="18" /> Node.js
 
 ### 🎨 Frontend
