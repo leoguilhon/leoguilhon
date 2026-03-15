@@ -13,11 +13,11 @@ No dia a dia, trabalho com **APIs REST**, **autenticação (JWT)**, **bancos rel
 
 **O que você encontra nos meus projetos:**
 - APIs REST escaláveis  
-- Autenticação e segurança  
-- Docker e ambientes cloud  
 - Bancos relacionais e NoSQL  
 - Documentação profissional  
-- Testes automatizados  
+- Testes automatizados
+- Autenticação e segurança  
+- Docker e ambientes cloud  
 
 ---
 
